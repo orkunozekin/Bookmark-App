@@ -8,7 +8,7 @@
 
 
 function generateInitialView(bookmarks) {
-    return `
+  return `
     <section class="top-buttons">
     <button class="new-bookmark"
     type="button">
@@ -23,7 +23,6 @@ function generateInitialView(bookmarks) {
   <option value = "1">☆</option>
 </select>
 </section>
-
 
 
 `
